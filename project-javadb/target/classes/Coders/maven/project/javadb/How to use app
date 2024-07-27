@@ -1,0 +1,21 @@
+Berikut langkah langkah menggunakan Aplikasi console tersebut:
+1.Buka Java Class Challenge
+2.Lalu klik run
+3.Akan muncul 4 Pilihan yaitu :
+    1. Masukkan Data Transaksi
+    2. Update Data Transaksi
+    3. Menampilkan Data Transaksi
+    4. Keluar
+
+ 4.Jika kita ingin menambahkan data transaksi maka kita memasukkan angka 1,
+   namun dngan catatan tidak boleh menginput data yang sama dengan tabel yang ada di database
+
+ 5.Jika ingin mengupdate data, maka dapat memasukan angka 2,
+   lalu masukkan data yaitu nomor struk yang ingin datanya diganti, lalu masukkan kode produk,
+   tanpa menggunakan "-" contohnya "01001", kemudian masukkan kode produk yang baru,jumlah dan total penjualan yang baru.
+
+ 6.Jika ingin menampilkan Data Transaksi, maka dapat memasukkan angka 3,
+   untuk melihat data transaksi per nama cabang, dapat memasukkan kode cabang, misalnya "0203" untuk manampilkan
+   data transaksi dari Cabang di Pancoran barat, atau jika ingin melihat data transaksi keseluruhan dapat mengetik "all".
+
+ 7. Jika ingin memberhentikan aplikasi console ini dapat memasukkan angka 4
